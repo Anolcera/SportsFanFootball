@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">SportsFanFootball</string>
+
+    <string name="welcome_img_descriptor">Welcome Image</string>
+
+    <!-- ChooseTeamScreen Strings -->
+    <string name="choose_your_team">Choose Your Team</string>
+    <string name="info_city">%s</string>
+    <string name="info_stadium">%s</string>
+    <string name="team_logo_description">Football Team Logo</string>
+
+<!--    Team Names-->
+    <string name="ajax_name">"Ajax"</string>
+    <string name="az_name">"AZ"</string>
+    <string name="cambuur_name">"SC Cambuur"</string>
+    <string name="emmen_name">"FC Emmen"</string>
+    <string name="excelsior_name">"Excelsior"</string>
+    <string name="feynoord_name">"Feyenoord"</string>
+    <string name="fortuna_sittard_name">"Fortuna Sittard"</string>
+    <string name="go_ahead_eagles_name">"Go Ahead Eagles"</string>
+    <string name="groningen_name">"FC Groningen"</string>
+    <string name="heerenveen_name">"Heerenveen"</string>
+    <string name="nec_nijmegen_name">"NEC Nijmegen"</string>
+    <string name="psv_eindhoven_name">"PSV Eindhoven"</string>
+    <string name="rkc_waalwijk_name">"RKC Waalwijk"</string>
+    <string name="sparta_rotterdam_name">"Sparta Rotterdam"</string>
+    <string name="twente_name">"FC Twente"</string>
+    <string name="utrecht_name">"FC Utrecht"</string>
+    <string name="vitesse_name">"Vitesse"</string>
+    <string name="volendam_name">"FC Volendam"</string>
+
+<!--    Team Cities-->
+    <string name="amsterdam_city">"Amsterdam"</string>
+    <string name="alkmaar_city">"Alkmaar"</string>
+    <string name="leeuwarden_city">"Leeuwarden"</string>
+    <string name="emmen_city">"Emmen"</string>
+    <string name="rotterdam_city">"Rotterdam"</string>
+    <string name="sittard_city">"Sittard"</string>
+    <string name="deventer_city">"Deventer"</string>
+    <string name="groningen_city">"Groningen"</string>
+    <string name="heerenveen_city">"Heerenveen"</string>
+    <string name="nijmeg_city">"Nijmegen"</string>
+    <string name="eindhoven_city">"Eindhoven"</string>
+    <string name="waalwijk_city">"Waalwijk"</string>
+    <string name="enschede_city">"Enschede"</string>
+    <string name="utrecht_city">"Utrecht"</string>
+    <string name="arnhem_city">"Arnhem"</string>
+    <string name="volendam_city">"Volendam"</string>
+
+<!--    Team Stadiums-->
+    <string name="ajax_stadium">"Johan Cruyff Arena"</string>
+    <string name="az_stadium">"AFAS Stadion"</string>
+    <string name="cambuur_stadium">"Cambuur Stadion"</string>
+    <string name="emmen_stadium">"De Oude Meerdijk"</string>
+    <string name="excelsior_stadium">"Van Donge &amp; De Roo Stadion"</string>
+    <string name="feynoord_stadium">"De Kuip"</string>
+    <string name="fortuna_sittard_stadium">"Fortuna Sittard Stadion"</string>
+    <string name="go_ahead_eagles_stadium">"De Adelaarshorst"</string>
+    <string name="groningen_stadium">"Euroborg"</string>
+    <string name="heerenveen_stadium">"Abe Lenstra Stadium"</string>
+    <string name="nec_nijmegen_stadium">"Goffertstadion"</string>
+    <string name="psv_eindhoven_stadium">"Philips Stadion"</string>
+    <string name="rkc_waalwijk_stadium">"Mandemakers Stadion"</string>
+    <string name="sparta_rotterdam_stadium">"Spartastadion Het Kasteel"</string>
+    <string name="twente_stadium">"De Grolsch Veste"</string>
+    <string name="utrecht_stadium">"Stadion Galgenwaard"</string>
+    <string name="vitesse_stadium">"GelreDome"</string>
+    <string name="volendam_stadium">"Kras Stadion"</string>
+
+
+    <string name="home_team_logo_description">Home team logo</string>
+    <string name="away_team_logo_description">Away team logo</string>
+    <string name="card_image">Folded Card Image</string>
+
+</resources>
